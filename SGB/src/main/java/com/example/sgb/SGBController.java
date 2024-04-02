@@ -3,7 +3,7 @@ package com.example.sgb;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class SGBController {
     @FXML
     private Label welcomeText;
 
